@@ -43,3 +43,10 @@ Data cleaning techniques
 Objective
 
 The objective of this project is to analyze supply chain performance and provide actionable insights to improve operational efficiency, inventory management, supplier performance, and shipping processes.
+# Supply Chain Analysis Project
+
+## Dashboard Preview
+
+![Dashboard 1](images/dashboard1.png)
+
+![Dashboard 2](images/dashboard2.png)
