@@ -4,22 +4,6 @@ A professional **Supply Chain Analytics Dashboard** built entirely in **Microsof
 
 This project transforms raw supply chain data into actionable business insights using **Pivot Tables, Pivot Charts, KPIs, Slicers, and Interactive Dashboards**.
 
----
-
-## 📸 Dashboard Preview
-
-### Main Dashboard
-
-<img width="100%" src="images/dashboard.png" alt="Supply Chain Dashboard">
-
-### Analysis Sheet
-
-<img width="100%" src="images/analysis.png" alt="Supply Chain Analysis">
-
-> **Note:** Create an `images` folder in the repository and upload your screenshots as:
->
-> - `dashboard.png`
-> - `analysis.png`
 
 ---
 
@@ -262,17 +246,3 @@ LinkedIn: www.linkedin.com/in/ganga-a-s
 Please consider giving this repository a **Star ⭐**
 
 ```
-
-### Suggested GitHub repository name:
-
-**supply-chain-performance-dashboard-excel**
-
-or
-
-**excel-supply-chain-dashboard**
-
-or
-
-**supply-chain-analytics-dashboard**
-
-The README will look even more professional if you upload the two screenshots into an `images/` folder and display them at the top.
